@@ -11,6 +11,10 @@ Here’s the Excel dashboard created for the project:
 
 <img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/530f56ec-df54-4a54-aa86-1eb969e3b61a" />
 
+**Bottom Half of Dashboard**
+
+<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/98e070b6-4478-4d59-9832-973ee70436c5" />
+
 **🎯 Business Problem**
 
 Bike Dekho wanted to understand the demographics and socioeconomic factors that drive bike purchases. The goal was to identify patterns in customer behavior and provide insights to guide targeted marketing and sales strategies.
